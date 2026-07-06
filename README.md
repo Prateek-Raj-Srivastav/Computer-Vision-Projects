@@ -1,5 +1,9 @@
 # Computer-Vision-Projects
-Classical Computer Vision and Digital Image Processing using OpenCV, TensorFlow, and Python.
+# Overview
+
+This repository contains practical implementations of **Computer Vision and Digital Image Processing techniques** using Python, OpenCV, TensorFlow, Keras, and NumPy.
+It covers image transformations, enhancement, histogram processing and matching, spatial and frequency domain filtering, image restoration, morphological operations, skin detection, Harris corner detection, boundary linking, edge detection, and CNN-based image classification using the CIFAR-10 dataset.
+The project demonstrates hands-on experience in image preprocessing, feature extraction, image analysis, and deep learning-based computer vision applications.
 
 
 Link: https://colab.research.google.com/drive/1opEYgS6yDJ7cqwHXTokBjgiQ9_GiFqlF#scrollTo=Zqhb-LP2wyHE
